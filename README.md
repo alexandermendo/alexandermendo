@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Alexander Mendoza</h1>
-<h3 align="center">Y soy Desarrollador Fullstack</h3>
+<h1 align="center">Hi👋, I'm Alexander Mendoza</h1>
+<h3 align="center">I'm Fullstack Developer</h3>
 
 - 🔭 I’m currently working on **Freelance**
 
